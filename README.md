@@ -68,8 +68,9 @@ notebooks/health_registry_eda_clean.ipynb
 ## Outputs
 health_registry_eda_clean.ipynb
 Fully reproducible exploratory data analysis and cleaning notebook.
-
-## Loom Video Explanation
-
 cleaned_health_registry.csv
 Analytics-ready, deduplicated dataset suitable for downstream use.
+
+## Loom Video Explanation
+https://www.loom.com/share/0948fd6d048a4e918c99c005d894c156
+
